@@ -1,9 +1,24 @@
 <h2> Hi there! Welcome to my Github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+I am a 21-year-old applied mathematician currently in my final year of a master's degree in applied mathematics and data science.
 Check my github page 👉 https://iaracastro.github.io/
 
+<!--Intro start-->
+- 🔭 I’m currently researching on **biostatistics, epidemiology and deep learning.**
+
+- 🌱 I’m currently learning **UX Design and N8N**
+
+- ☁️ I've keen interest in transdisciplinary projects promoving social impact.
+
+- 📝 I regularly write notes about subjects i'm learning.
+
+- 📫 Feel free to reach me out!
+
+- 👉 Check my github page https://iaracastro.github.io/
+<!--Intro end-->
+
 <div>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iaracastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iaracastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iaracastro&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
