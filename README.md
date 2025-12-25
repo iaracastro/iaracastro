@@ -19,3 +19,6 @@ Check my github page 👉 https://iaracastro.github.io/
   <a href="https://www.linkedin.com/in/iara-cristina-m-castro-416994255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
